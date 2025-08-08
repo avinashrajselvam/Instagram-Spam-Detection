@@ -1,6 +1,3 @@
-# Instagram-Spam-Detection
-Detect and prevent fake accounts using AI and ML. This project explores anomaly detection, behavioral analysis, and NLP to identify suspicious activity on digital platforms. Includes a PowerPoint, documentation, and synopsis for academic or research use.
-
 # Fake Account Detection Using AI
 
 This project explores methods to detect fake accounts across digital platforms using modern techniques such as AI, behavioral analysis, and blockchain verification. It provides both technical and strategic insights into securing platforms against malicious account creation.
