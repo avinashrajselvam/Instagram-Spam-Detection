@@ -39,17 +39,4 @@ Fake accounts are frequently used for spamming, phishing, or manipulating public
 2. Use the `Instagram_Spam_Presentation_Revamped.pptx` for visual presentation or pitching.
 3. Refer to the `Fake_Account_Detection_Synopsis.docx` or the A4 version for formal submission.
 
-## 📎 Downloads
 
-- [📄 Download Synopsis (A4 Ready)](Fake_Account_Detection_Synopsis_A4.docx)
-- [📄 Full Documentation](Styled_Fake_Account_Documentation.docx)
-- [📊 PowerPoint Presentation](Instagram_Spam_Presentation_Revamped.pptx)
-
-## 👤 Author
-
-*This project was compiled and designed for academic and research purposes.*  
-*Contact information omitted for privacy.*
-
----
-
-⭐ **Star this repo** if you find it helpful!
